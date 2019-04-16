@@ -34,7 +34,7 @@ HIT226 Prac 4
   <section>
     <h2>URL Links</h2>
     <div><a href = "#">This is a link(unvisited)</a></div>
-    <div><a href = "http://learnline.cdu.edu.au/studyskills/studyskills/introacademicwriting.html" class = "visited">This is a visited link(Academic Writing Section</a></div>
+    <div><a href = "http://learnline.cdu.edu.au/studyskills/studyskills/introacademicwriting.html" class = "visited">This is a visited link(Academic Writing Section)</a></div>
   </section>
 
   <section>
