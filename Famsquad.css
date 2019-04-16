@@ -1,0 +1,167 @@
+header {
+	padding: 50px 50px;
+	border-left: 1px solid #0f0fa3;
+	border-right: 1px solid #0f0fa3;
+  border-radius: 10px;
+}
+
+main {
+	padding: 50px 50px;
+	border-left: 1px solid #0f0fa3;
+	border-right: 1px solid #0f0fa3;
+  border-radius: 10px;
+  background-color: #ccebff;
+}
+/*headings*/
+h1 {
+  color: #595959;
+  text-align: left;
+  font: italics fantasy;
+  font-size: 32px;
+}
+
+h2 {
+  color: #595959;
+  text-align: left;
+  font: italics fantasy;
+  font-size: 24px;
+}
+
+h2 {
+  color: #595959;
+  text-align: left;
+  font: italics fantasy;
+  font-size: 24px;
+}
+
+h3 {
+  color: #595959;
+  text-align: left;
+  font: italics fantasy;
+  font-size: 18px;
+}
+
+h4 {
+  color: #595959;
+  text-align: left;
+  font: italics fantasy;
+  font-size: 16px;
+}
+
+h5 {
+  color: #595959;
+  text-align: left;
+  font: italics fantasy;
+  font-size: 14px;
+}
+
+h6 {
+  color: #595959;
+  text-align: left;
+  font: italics fantasy;
+  font-size: 10px;
+}
+
+/*containers*/
+div.container-Jordan {
+		text-align: center;
+    margin-top: 30px;
+		margin-left: 10%;
+		margin-right: 10%;
+    border: 1px solid gray;
+		padding: 5px 10px;
+		background-color: #ccffff;
+}
+
+}
+nav {
+    width: 100px;
+		text-align: center;
+    margin: 0;
+    padding: 1em;
+		background-color: #CC99FF;
+		font: 100% fantasy;
+		display: block;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul a {
+    text-decoration: none;
+	padding: 1%;
+}
+
+/*Links*/
+a:link {
+    color: #ff0000;
+    background-color: transparent;
+    text-decoration: none;
+		cursor: pointer;
+	display:block;
+}
+a:visited {
+    color: #cc0000;
+    background-color: transparent;
+    text-decoration: none;
+		cursor: pointer;
+}
+a:hover {
+    color: #262626;
+    background-color: #99ebff;
+    text-decoration: underline;
+}
+a:active {
+    color: blue;
+    background-color: #99ebff;
+    text-decoration: underline;
+}
+
+/*The colours used on the academic writing section*/
+.colour {
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	border: 1px solid black;
+}
+
+.colour--primary {
+	background: #961d22;
+}
+
+.colour--secondary {
+	background: #123768;
+}
+
+.colour--dark{
+	background: #101046;
+}
+
+.colour--light {
+	background: #f7f7f7;
+}
+
+.colour--highlight {
+	background: #3b6ba4;
+}
+
+@media (min-width: 600px) {
+	main {
+	width: 750px;
+	margin: auto;
+	}
+
+.card-Jordan {
+  padding: 10px;
+  text-align:center;
+	display:inline-block;
+	cursor: pointer;
+  height: 40%;
+  width: 40%;
+	border: 0.5px solid black;
+  border-radius: 15%;
+  box-shadow: 0 6px 10px 0 rgba(0,0,0,1);
+
+}
